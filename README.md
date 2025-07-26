@@ -1,6 +1,7 @@
 # JewelryShop_Web Application
 
-Welcome to the **JewelryShop_Web Application**! 
+Welcome to the **JewelryShop_Web Application**!
+<br/>
 This project is a web-based storefront designed to showcase and manage jewelry products. 
 Built using **JavaScript, CSS, and HTML**, it aims to provide a responsive and user-friendly experience for an online jewelry shop.
 
